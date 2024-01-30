@@ -6,6 +6,5 @@ PyMuPDF
 numpy==1.21.0
 opencv-python==4.7.0.68
 Pillow==9.4.0
-tensorflow==2.11.0
 uvicorn==0.21.1
 
