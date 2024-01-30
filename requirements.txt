@@ -4,7 +4,6 @@ easyocr
 shutil-extra
 PyMuPDF
 numpy==1.21.0
-opencv-python==4.7.0.68
 opencv-python-headless
 Pillow==9.4.0
 uvicorn==0.21.1
