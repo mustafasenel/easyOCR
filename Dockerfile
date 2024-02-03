@@ -17,4 +17,4 @@ RUN pip install --no-cache-dir -r requirements.txt
 COPY . .
 
 # Docker içinde FastAPI uygulamasını çalıştırın
-CMD ["uvicorn api:app --host 0.0.0.0 --port 7860 & streamlit run app.py"]
+CMD ["uvicorn api:app --host 0.0.0.0 --port 7860"]
